@@ -15,9 +15,9 @@ Challange Data Science
 
 ### 📈 Gráficos Destacados
 1. **Ingresos por Tienda**:  
-   ![Ingresos](https://i.imgur.com/XYZ1234.png)
+   ![Ingresos](https://imgur.com/a/EcIcSNI)
 2. **Distribución Geográfica**:  
-   ![Mapa](https://i.imgur.com/XYZ1234.png)
+   ![Mapa](https://imgur.com/a/vBFZH8Z)
 
 ## 🧠 Análisis y Recomendación
 
